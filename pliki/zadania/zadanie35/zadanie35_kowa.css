@@ -1,0 +1,8 @@
+/* Adam Kowalewski 2G 19.05.2025 */
+h3 {
+    width: 200pt;
+    height: 4cm;
+    border: dotted silver;
+    background-color: rgb(175, 238, 238);
+    margin: 80px 0 0 10px;
+}
